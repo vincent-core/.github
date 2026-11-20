@@ -2,6 +2,10 @@
 
 > Independent IT Consultant based in Pematangsiantar, Indonesia 🇮🇩
 
+
+
+<img width="1792" height="592" alt="Gemini_Generated_Image_os30ecos30ecos30" src="https://github.com/user-attachments/assets/67fb082c-6f42-4b17-a3eb-cefa22a8dc63" />
+
 ---
 
 ## 👋 About Us
@@ -104,6 +108,3 @@ Jika kamu suka project kami:
 ---
 
 
-
-
-<img width="1792" height="592" alt="Gemini_Generated_Image_os30ecos30ecos30" src="https://github.com/user-attachments/assets/67fb082c-6f42-4b17-a3eb-cefa22a8dc63" />
